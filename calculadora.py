@@ -1,7 +1,7 @@
 # Calculadora em Python
 
-# Desenvolvida em Python a partir do que foi aprendido nos capítulos 2 e 3
 # Curso Python Fundamentos para Análise de Dados da Data Science Academy
+# Desenvolvida em Python a partir do que foi aprendido nos capítulos 2 e 3
 # Autora: Karla B S Oliveira
 # Data: 26 de março de 2022
 
