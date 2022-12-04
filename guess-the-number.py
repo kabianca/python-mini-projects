@@ -1,4 +1,6 @@
- 
+# FreeCodeCamp.org
+# 12 Beginner Python Projects - Coding Course
+
 import random
 
 def guess(x):
